@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+HERE CFRAME!
+
+--253.093491, 15.3161573, 1765.22705, -0.999999762, 0.000600289495, 0.00039747596, 0.000598974817, 0.999994397, -0.00329947821, -0.00039945438, -0.00329923932, -0.999994457
+
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 getgenv().Theme = "Synapse"
 --[[
